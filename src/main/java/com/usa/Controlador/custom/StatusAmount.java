@@ -7,7 +7,7 @@ package com.usa.Controlador.custom;
 
 /**
  *
- * @author Diana
+ * @author Carlos López
  */
 public class StatusAmount {
     
