@@ -9,7 +9,7 @@ import com.usa.Modelo.Client;
 
 /**
  *
- * @author Diana
+ * @author Carlos López
  */
 public class CountClient {
 
